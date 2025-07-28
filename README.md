@@ -57,6 +57,31 @@
 
 ---
 
+## 🏢 Organization Contributions – PACKAGE-EXPLORER
+
+> 💼 Contributing to **11 active public repositories** at [PACKAGE‑EXPLORER](https://github.com/PACKAGE-EXPLORER),  
+> covering **C#**, **Python**, **Digital Twin Frameworks**, and **Code Quality Automation** using tools like **SonarCloud** and **GitHub Actions**.
+
+---
+
+## 📌 Contribution Activity – July 2025 (PACKAGE‑EXPLORER)
+
+| Repository                                                                 | Language | Activity (Commits) |
+|----------------------------------------------------------------------------|----------|---------------------|
+| [package3](https://github.com/PACKAGE-EXPLORER/package3)                   | C#       | 🟢 Active – 2 commits |
+| [version2](https://github.com/PACKAGE-EXPLORER/version2)                   | C#       | 🔵 Active – 4 commits |
+| [version](https://github.com/PACKAGE-EXPLORER/version)                     | CSS      | 🟣 Active – 3 commits |
+| [package-explorer](https://github.com/PACKAGE-EXPLORER/package-explorer)   | C#       | 🟠 Active – 6 commits |
+| [pyi40aas](https://github.com/PACKAGE-EXPLORER/pyi40aas)                   | Python   | 🟡 Active – 1 commit  |
+| [pyi](https://github.com/PACKAGE-EXPLORER/pyi)                             | Unknown  | 🟤 Active – 1 commit  |
+| [DTDL5](https://github.com/PACKAGE-EXPLORER/DTDL5)                         | CC-BY    | ⚫ Active – 2 commits |
+| [dtdl](https://github.com/PACKAGE-EXPLORER/dtdl)                           | CC-BY    | 🔴 Active – 3 commits |
+| [twined](https://github.com/PACKAGE-EXPLORER/twined)                       | Python   | 🟧 Active – 2 commits |
+| [cps-twinning](https://github.com/PACKAGE-EXPLORER/cps-twinning)           | Python   | 🟨 Active – 2 commits |
+| [cpsS-twinning](https://github.com/PACKAGE-EXPLORER/cpsS-twinning)         | Unknown  | 🟥 Active – 1 commit  |
+
+---
+
 ## 👩‍🏫 Teaching Assistant @ PUCIT
 
 - Assisted in **Computer Networks** course labs  
@@ -67,10 +92,10 @@
 
 ## 📬 Let’s Connect
 
-- 📫 Email: [maria@example.com](mailto:mariahabib1059@gmail.com)
+- 📫 Email: [mariahabib1059@gmail.com](mailto:mariahabib1059@gmail.com)
 - 🌐 Portfolio: [https://AIRAM-023.github.io](https://AIRAM-023.github.io)
-- ✍️ Instagram Poetry: `mariaa_jlol
+- ✍️ Instagram Poetry: [@mariaa_jlol](https://instagram.com/mariaa_1363)
 
 ---
 
->
+> *“Learning with purpose, building with passion.”*
