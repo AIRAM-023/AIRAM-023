@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Habib</h1>
-<h3 align="center">BSIT Student | TA at PUCIT | AI Enthusiast | Full Stack Developer</h3>
+<h3 align="center">BSIT Student  | AI Enthusiast | Full Stack Developer</h3>
 
 <p align="center">
 🎓 BSIT 6th Semester @ PUCIT  
