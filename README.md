@@ -94,7 +94,7 @@
 
 - 📫 Email: [mariahabib1059@gmail.com](mailto:mariahabib1059@gmail.com)
 - 🌐 Portfolio: [https://AIRAM-023.github.io](https://AIRAM-023.github.io)
-- ✍️ Instagram Poetry: [@mariaa_jlol](https://instagram.com/mariaa_1363)
+- ✍️ Instagram Poetry: [@mariaa_jlol][(https://www.instagram.com/mariaa__1363?igsh=c3dybzh5ZmN4ajds)]
 
 ---
 
